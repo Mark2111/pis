@@ -7,7 +7,7 @@ namespace ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Novi commit");
-            //Bemti antuna
+            Console.WriteLine("Issue fixed");
         }
     }
 }
